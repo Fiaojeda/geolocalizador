@@ -1,0 +1,12 @@
+# Changelog
+
+**April 4 /2022**
+
+- Creacion del repositorio.
+- Se agrego README.md
+
+**April 6 /2022**
+
+- Se crearon las carpetas `/data` y `/source`.
+- Se agrego codigo en Python para descargar la base de datos (`/source`). 
+- Se agrego un ambiente virtual al repositorio `geoenv.yml`.
