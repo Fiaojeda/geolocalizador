@@ -1,0 +1,58 @@
+# Geolocalizador: localizador de atentados en Ucrania
+
+Repositorio del proyecto final de la clase de Programación, Universidad del Rosario 2022-1. <br>
+Profesor: Andrés Mauricio Perez.
+
+## Autores
+Sofía Barreto Ojeda ([@FiaOjeda](https://github.com/Fiaojeda)), Néstor Felipe Bobadilla ([@Felipe-Bobadilla](https://github.com/Felipe-Bobadilla)).
+
+
+## Resumen ejecutivo: 
+Que enuncia en 150 palabras la descripcion delproblema identificado y la solucion propuesta.
+
+## Funcionalidad de la solucion computacional: 
+
+Que enumera brevemente lo que hace la solucion computacional y como esta ayuda en la solucion del problema.
+
+## Objetivos del proyecto
+### General: 
+- Se busca visualizar los numerosos eventos bélicos que ha sufrido Ucrania, teniendo en
+cuenta una base de datos que contiene fecha, hora, ubicación y coordenadas de cada
+evento registrado hasta el momento.
+
+### Específicos:
+- Depurar la base de datos, a cargo de Felipe Bobadilla.
+- Transformar la base de datos en una lista, a cargo de Sofia Barreto.
+- Crear tablas ordenadas con la información encontrada, a cargo de David Gamba.
+- Aplicar las extensiones de la librería `Plotly express` para el modelado de las ubicaciones
+de los eventos, a cargo de todos los integrantes.
+- Exposición gráfica de los datos sobre el mapa de Ucrania, a cargo de todos.
+
+
+## Herramientas y conceptos de programación:
+
+### Librerias:
+- [`Requests`](https://docs.python-requests.org/en/latest/), para extraer información.
+- [`Pandas`](https://pandas.pydata.org/), para tabular la información encontrada.
+- [`Plotly express`](https://plotly.com/python/plotly-express/), para generar el mapa de Ucrania.
+
+### Herramientas:
+- Listas.
+- Ciclos `for` y `while`.
+- Condicionales.
+- Diccionarios.
+- Tuplas.
+- Json.
+
+## Descripcion del programa: 
+Que describe las partes que componen la solucion computacional de la siguiente manera:
+
+ i. Nombre de los archivos que componen el programa
+ 
+ ii. Que archivo contiene el bloque de ejecucion (el archivo que debe ejecutarse para correr el programa)
+
+iii. Que clases y/o funciones se definen en cada archivo
+
+iv. El flujo del programa: En orden cronologico, describir que pasos principales se realizan en el bloque de ejecucion, incluyendo definicion de objetos y llamado a funciones y metodos.
+
+v. Descripci´on detallada del funcionamiento de las principales clases y/o funciones implementadas
