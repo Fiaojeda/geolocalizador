@@ -1,12 +1,16 @@
 # Changelog
 
-**April 4 /2022**
+**May 11 /2022**
+- Se eliminó archivo espurio.
 
-- Creacion del repositorio.
-- Se agrego README.md
+**May 10 /2022**
+- Se agregó un notebook para visualizar los datos paso a paso.
 
 **April 6 /2022**
-
 - Se crearon las carpetas `/data` y `/source`.
 - Se agrego codigo en Python para descargar la base de datos (`/source`). 
 - Se agrego un ambiente virtual al repositorio `geoenv.yml`.
+
+**April 4 /2022**
+- Creacion del repositorio.
+- Se agrego README.md
