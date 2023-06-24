@@ -14,6 +14,7 @@ dependencies:
   - libzlib=1.2.11=h90dfc92_1014
   - ncurses=6.3=hc470f4d_0
   - openssl=1.1.1n=h90dfc92_0
+  - pandas
   - pip=22.0.4=pyhd8ed1ab_0
   - pycparser=2.21=pyhd8ed1ab_0
   - pyopenssl=22.0.0=pyhd8ed1ab_0
