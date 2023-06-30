@@ -50,4 +50,4 @@ Para este proyecto se utilizarán los datos encontrados en [este](https://ukrain
 - Coordinar y adecuar los conocimientos de los integrantes con su respectivo trabajo. 
 
 ## Autores
-Sofía Barreto Ojeda ([@FiaOjeda](https://github.com/Fiaojeda)), Néstor Felipe Bobadilla ([@Felipe-Bobadilla](https://github.com/Felipe-Bobadilla)).
+Sofía Barreto Ojeda ([@FiaOjeda](https://github.com/Fiaojeda))
